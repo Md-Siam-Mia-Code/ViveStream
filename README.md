@@ -41,7 +41,7 @@ cd vive-stream
 ```bash
 npm init -y
 npm install express dotenv
-pip install yt-dlp  # For grabbing those YouTube treasures!
+pip install yt-dlp
 ```
 
 ### 3. Fire It Up!
